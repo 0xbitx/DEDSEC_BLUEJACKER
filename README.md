@@ -21,7 +21,7 @@ DEDSEC_BLUEJACKER is a sophisticated Bluetooth jamming device/tool that uses an 
     1. git clone https://github.com/0xbitx/DEDSEC_BLUEJACKER.git
     2. cd DEDSEC_BLUEJACKER
     3. pip install esptool
-    4. ./esptool --chip esp32 --port /dev/ttyUSB0 --baud 115200 write_flash 0x1000 dedsec_bluejacker.bin
+    4. ./esptool.py --chip esp32 --port /dev/ttyUSB0 --baud 115200 write_flash 0x1000 dedsec_bluejacker.bin
 
 ## WIRING DIAGRAM
 
