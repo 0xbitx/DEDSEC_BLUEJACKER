@@ -25,9 +25,8 @@ DEDSEC_BLUEJACKER is a sophisticated Bluetooth jamming device/tool that uses an 
 ## WIRING DIAGRAM
 
 <p align="center">
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWJ2MGZobjl3YW00cmRrNHY5ZnE1NnJrczdld3gwbzNweDN2eW5mdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lcEKnwUvk2d7isZ09s/giphy.webp" width" width="50%" height="50%">
+<img src="https://github.com/0xbitx/DEDSEC_BLUEJACKER/assets/74537225/73003e64-42d2-44f4-845f-d25747b03649" width" width="50%" height="50%">
 </p>
-
 
 ## Pinout Configuration
 
