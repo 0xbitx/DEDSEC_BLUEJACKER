@@ -12,7 +12,7 @@ DEDSEC_BLUEJACKER is a sophisticated Bluetooth jamming device/tool that uses an 
 	
     ESP32-devkit v1 nodeMCU                     
     2x nRF24L01   
-    2x 10UF 24v Capacitor
+    2x 10UF 16v Capacitor
     Data usb cable 
 
 
