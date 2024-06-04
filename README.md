@@ -35,10 +35,10 @@ Below are the pinout mappings from the ESP32 to the nRF24L01+ modules for both H
 
 ### HSPI Configuration
 
-| nRF24L01+ Pin | HSPI Pin (ESP32) |
-|---------------|------------------|
-| VCC           | 3.3V             |
-| GND           | GND              |
+| 1st nRF24L01 module Pin | HSPI Pin (ESP32 devkit v1) | 10uf 16v capacitor |
+|---------------|------------------|--------------------|
+| VCC           | 3.3V             | (+) capacitor |
+| GND           | GND              | (-) capacitor |
 | CE            | GPIO 16          |
 | CSN           | GPIO 15          |
 | SCK           | GPIO 14          |
@@ -48,10 +48,10 @@ Below are the pinout mappings from the ESP32 to the nRF24L01+ modules for both H
 
 ### VSPI Configuration
 
-| nRF24L01+ Pin | VSPI Pin (ESP32) |
-|---------------|------------------|
-| VCC           | 3.3V             |
-| GND           | GND              |
+| 2nd nRF24L01 module Pin | VSPI Pin (ESP32 devkit v1) | 10uf 16v capacitor |
+|---------------|------------------|--------------------|
+| VCC           | 3.3V             | (+) capacitor |
+| GND           | GND              | (-) capacitor |
 | CE            | GPIO 22          |
 | CSN           | GPIO 21          |
 | SCK           | GPIO 18          |
