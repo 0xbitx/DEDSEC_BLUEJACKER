@@ -66,7 +66,7 @@ void jamBluetooth() {
 }
 
 void jamDroneController() {
-    Serial.println("Drone controller jamming: Starting 2.4 GHz and 5.8 GHz channel hopping...");
+    Serial.println("Drone controller jamming: Starting channel hopping...");
 
     for (int channel = 1; channel <= 13; ++channel) {
         esp_wifi_set_channel(channel, WIFI_SECOND_CHAN_NONE);
